@@ -1,10 +1,24 @@
-# Obradoiro Co-Lab
-Espazo aberto de traballo e reflexión para definir as características e natureza do laboratorio cidadán.
+# Presentación do equipo
+Rubén - Concello
 
-Xoves, 24 e Venres, 25 de Novembro
+Ramón - Cultura AV
 
-Ágora, centro sociocultural
+Pablo Sanxiao - iCarto
 
-9.30 - 20.00
+Juanjo Sánchez - iGalia
 
-Inscripción: https://emapic.es/custom/colab-signup
+Santi - Atlantis
+
+Eva - IT
+
+Enrique Saavedra - Vermislab
+
+Mónica - Innovación social - Hack4demy - Mindset
+
+Xoan - Bricolabs
+
+Tucho - Bricolabs
+
+Jose María - Concello
+
+Claudia - Concello
