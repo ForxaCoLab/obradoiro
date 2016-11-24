@@ -1,4 +1,7 @@
 # Presentación do equipo
+
+![O grupo](http://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_ser_dixital/imaxes/presentacion_ser_dixital.jpeg)
+
 Rubén - Concello
 
 Ramón - Cultura AV
