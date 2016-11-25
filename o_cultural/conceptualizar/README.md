@@ -15,4 +15,4 @@ Imaginar el Colab como un think tank: ser GPS de una forma nueva de hacer cultur
 Creación de residencias artísticas y unirlo al proceso de participación del Teatro Colón
 
 **Brainstorming y líneas de trabajo:** 
-**gestión de espacios** (poder mediar con el ayuntamiento), **visibilidad **(**apoyo a la creatividad** en términos se sinaléptica, vados...), **espacio investigación e información cultural**, abrir procesos participativos y mapeos del tejido asociativo para crear sinergias (continuarlo), **articular oportunidades de encuentro y debate entre el sector(?)**
+**gestión de espacios** (poder mediar con el ayuntamiento), **visibilidad **y**apoyo a la creatividad** en términos se sinaléptica, vados...), **espacio investigación e información cultural**, abrir procesos participativos y mapeos del tejido asociativo para crear sinergias (continuarlo), **articular oportunidades de encuentro y debate entre el sector(?)**
