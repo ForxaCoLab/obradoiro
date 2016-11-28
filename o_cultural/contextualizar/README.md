@@ -1,4 +1,4 @@
-# Obradoiro Co-Lab
+![](http://)# Obradoiro Co-Lab
 Espazo aberto de traballo e reflexión para definir as características e natureza do laboratorio cidadán.
 
 Xoves, 24 e Venres, 25 de Novembro
