@@ -97,7 +97,7 @@ Dotación económica para las ofertas de formación bajo demanda. Dotación
 económica para la realización de los seminarios. *Dotación económica
 para la remuneración de las comunidades implicadas. *
 
--   **Oficina de atención ciudadana **
+-   **Oficina de atención ciudadana**
 
 Propuesta surgida en relación con la necesidad de la escucha atenta y de
 las políticas del cuidado y de los afectos.
@@ -109,7 +109,7 @@ Ayuntamiento  y por la ciudadanía a sí misma en materia de cultura
 (elaboración de propuestas, asesoramiento fiscal, acompañamiento
 técnico, etc…)
 
-**Herramientas metodológicas: **
+**Herramientas metodológicas**
 
 -   Contratación de un turno de mediadores.
 
