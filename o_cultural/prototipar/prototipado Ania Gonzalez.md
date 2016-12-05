@@ -48,7 +48,7 @@ de A Coruña en materia de cultura.
 
 **Herramientas metodológicas**
 
--   **Contratación** de 3 mediadorxs en rondas de rotación anual que
+-   **Contratación** de 3 mediadores en rondas de rotación anual que
     lleven a cabo el desarrollo de la investigación acción. La
     contratación sería mediante el contrato de investigación que se
     emplea en Medialab Prado para la mediación. Consiste en un contrato
