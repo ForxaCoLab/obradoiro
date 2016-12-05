@@ -1,7 +1,7 @@
 **PROPUESTA ELABORADA EN EL GRUPO DE CULTURA DE LAS JORNADAS PÚBLICAS
 DEL Co-Lab DEL 24 Y 25 DE NOVIEMBRE DE 2016, ÁGORA A CORUÑA**
 
-\_ Documento público de acceso abierto mediante el link y con permiso
+Documento público de acceso abierto mediante el link y con permiso
 general de edición.
 
 En relación a las dos líneas de trabajo establecidas como
