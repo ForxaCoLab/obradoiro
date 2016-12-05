@@ -46,7 +46,7 @@ de acciones concretas en el ámbito de la participación de la ciudadanía
 de A Coruña en materia de cultura.
 [*https://es.wikipedia.org/wiki/Investigaci%C3%B3n-Acci%C3%B3n\_participativa*](https://es.wikipedia.org/wiki/Investigaci%C3%B3n-Acci%C3%B3n_participativa)
 
-**Herramientas metodológicas: **
+**Herramientas metodológicas**
 
 -   **Contratación** de 3 mediadorxs en rondas de rotación anual que
     lleven a cabo el desarrollo de la investigación acción. La
@@ -102,7 +102,7 @@ para la remuneración de las comunidades implicadas. *
 Propuesta surgida en relación con la necesidad de la escucha atenta y de
 las políticas del cuidado y de los afectos.
 
-**Definición:** Creación de un oficina de atención ciudadana, con
+**Definición** Creación de un oficina de atención ciudadana, con
 dotación de un espacio específico y material de trabajo para la
 intermediación con la ciudadanía por parte del cuerpo técnico del
 Ayuntamiento  y por la ciudadanía a sí misma en materia de cultura
