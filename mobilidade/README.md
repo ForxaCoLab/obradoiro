@@ -4,27 +4,27 @@ O equipo de mobilidade estivo integrado en total por 13 persoas, que foron varia
 
 Estas persoas foron:
 
-1. **Adriana Ávila** (Terapeuta ocupacional. Profesora da UDC) [1,3] :one: :two: :three:
-- Alberto Varela (Enxeñeiro Camiños, coordinador Cartolab e Emapic)  [1]
-- **Ana Blanco** (FETSAC, asociación cultural que organiza un trabajo contrapuesto a la escuela de arquitectura de la ciudad) [1,2,3]
-- **Ana Lorenzo** (Cidadanía *"SCoopGal"*) [1,2,3]
-- Diego (Arquitecto Técnico) [1,2?]
-- **Inés Cruz Varela** (4Espazos) [1,2,3]
-- Patricia Lesta (Concello) [3]
-- **Senén Rodríguez-Carrera Iglesias** (FETSAC) [1,2,3]
-- Xavier Seoane [1,2?]
+1. **Adriana Ávila** (Terapeuta ocupacional. Profesora da UDC) :one: :three:
+- Alberto Varela (Enxeñeiro Camiños, coordinador Cartolab e Emapic) :one:
+- **Ana Blanco** (FETSAC, asociación cultural que organiza un trabajo contrapuesto a la escuela de arquitectura de la ciudad) :one: :two: :three:
+- **Ana Lorenzo** (Cidadanía *"SCoopGal"*) :one: :two: :three:
+- Diego (Arquitecto Técnico) :one: :two:?
+- **Inés Cruz Varela** (4Espazos) :one: :two: :three:
+- Patricia Lesta (Concello) :three:
+- **Senén Rodríguez-Carrera Iglesias** (FETSAC) :one: :two: :three:
+- Xavier Seoane :one: :two:?
 
 máis os facilitadores:
 
-1. Natalia Balseiro (*Concello*) [1,2]
-- **Adrián Eirís** (Cartolab-Emapic) [1,2,3]
+1. Natalia Balseiro (*Concello*) :one: :two:
+- **Adrián Eirís** (Cartolab-Emapic) :one: :two: :three:
 
 ademáis o venres á mañá (fase conceptualización) estiveron presentes dúas técnicas do Concello.
 
-1. (Técnica 1) [2]
-- (Técnica 2) [2]
+1. (Técnica 1) :two:
+- (Técnica 2) :two:
 
-#####*(en negriña as participantes que estiveron en todas as fases ata o final, entre corchetes as fases nas que participaron)*
+##### *(en negriña as participantes que estiveron en todas as fases ata o final, os números correspóndense coas fases nas que participaron)*
 
 #### Participantes F1:
 ![participantesF1](contextualizar/imaxes/benchmarking_proceso.jpg)

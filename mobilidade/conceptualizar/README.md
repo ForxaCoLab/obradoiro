@@ -14,11 +14,11 @@ Nesta fase reduciuse o tempo previsto debido a que se tivo unha conversa entre o
 Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ideas, non quedou un número excesivo de propostas a priorizar e xa que resultaban todas de interese e foi difícil descartalas, decidiuse conxuntamente ter todas as propostas en conta nun programa a desenvolver con distintas liñas de acción de cara ao prototipado.
 
 
-##Accións concretas propostas:
+## Accións concretas propostas:
 
-#####***(en negriña as propostas finalmente seleccionadas).***
+##### ***(en negriña as propostas finalmente seleccionadas).***
 
-###Problemáticas coche-tráfico
+### Problemáticas coche-tráfico
 
 - ***App* para compartir coche a nivel local.**
 - **Concurso-ranking entre colexios de transporte sustentable para ir ao colexio.**
@@ -26,7 +26,7 @@ Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ide
 - Subida do imposto vehículos a gasolina, baixada do imposto eléctricos.
 - Subida do prezo dos parkímetros.
 
-###Deseño espazo universal
+### Deseño espazo universal
 
 - **Senda verde na vía do tren ao Burgo**
 - Carril bici para/por toda a cidade
@@ -34,14 +34,14 @@ Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ide
 - Favorecer o deseño de espazos nos que se misturen os usos (sen delimitación ríxida de plataformas para un uso concreto, calzada-carril bici-acera...)
 - Máis sendas no deseño urbano
 
-###Mobilidade bici/peón
+### Mobilidade bici/peón
 
 - **Consolidar liñas de desexo de rutas a pé**
 - **Deseño chuvasqueiros *guays* para ir en bici.**
 - Máis aparcamentos públicos para bicis de uso privado (pechados: contenedores, aparcamentos de bici).
 - Servizo de alquiler de barcas (como o de bicis)
 
-###Pedagoxía, concienciación e información
+### Pedagoxía, concienciación e información
 
 - **Rede de comunicación especial para avisos incidencias para personas con mobilidade reducida (como avisos radares da DGT)**
 - **Promover asociacións para que revindiquen os espazos para camiñar. Promoción das *andarinas por prescrición médica***
@@ -51,7 +51,7 @@ Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ide
 - **Regalar a ciclistas barras-marco separadoras para que os coches respeten as distancias**
 - Mellorar a comunicación de información dos paneles do bus.
 
-###Servizo público de mobilidade
+### Servizo público de mobilidade
 
 - **Ranking de amabilidade dos conductores de bus**
 - Bicis con asento-cesto para nenos
@@ -60,7 +60,7 @@ Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ide
 
 ![F2-accions_propostas](imaxes/accions_propostas.jpg)
 
-##Propostas-Suxerencias ao Concello
+## Propostas-Suxerencias ao Concello
 
 - Semáforos con botón para coches (invertindo o rol cos peóns que son os que teñen que pedir o paso habitualmente).
 - Subida do imposto vehículos a gasolina, baixada do imposto eléctricos.
