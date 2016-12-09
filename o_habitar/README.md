@@ -20,7 +20,7 @@ A continuación detallamos os nomes das persoas participantes no Grupo do Habita
 | -------- | -------- | -------- |
 |Alba|Estudante|1, 2 e 3
 |Andrea|Rexenerando S.Coop.|1, 2 e 3
-|Fran|Estudos en Man Común|2 e 3
+|Fran|P. Estudos en Man Común (PEMAN)|2 e 3
 |José| arquitecto| 1, 2 e 3
 |Juan|Arquitectura sen Fronteiras|1, 2 e 3
 | Marta     | arquitecta     | 1, 2 e 3
