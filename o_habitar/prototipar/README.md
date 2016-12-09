@@ -1,6 +1,8 @@
 # Prototipado
 Despois de finalizar a mañá coa práctica e dinámica ponencia de Nagore de los Ríos sobre Gobernanza e Participación e do xantar colectivo, pasariamos á última parte do obradoiro, xa na sesión de tarde, onde Juan Freire nos falaría de Comunidades de aprendizaxe.
 
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/canvas.jpg)
+
 
 17:00h - Comezaba cunha hora de retraso a Fase 3 e última do obradoiro debido ao debate cidadán xurdido durante a última ponencia.
 
