@@ -23,16 +23,16 @@ Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ide
 - ***App* para compartir coche a nivel local.**
 - **Concurso-ranking entre colexios de transporte sustentable para ir ao colexio.**
 - Carné por puntos en función dos kilómetros percorridos.
-- Subida do imposto vehículos a gasolina, baixada do imposto eléctricos.
-- Subida do prezo dos parkímetros.
+- Subida do imposto vehículos a gasolina, baixada do imposto a eléctricos.
+- Subida do prezo dos parquímetros.
 
-### Deseño espazo universal
+### Deseño do espazo universal
 
 - **Senda verde na vía do tren ao Burgo**
 - Carril bici para/por toda a cidade
 - Establecer zonas de exclusividade progresiva de medios de tranporte: peón-bici-bus-coche
 - Favorecer o deseño de espazos nos que se misturen os usos (sen delimitación ríxida de plataformas para un uso concreto, calzada-carril bici-acera...)
-- Máis sendas no deseño urbano
+- Máis sendas no deseño urbán
 
 ### Mobilidade bici/peón
 
@@ -43,13 +43,13 @@ Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ide
 
 ### Pedagoxía, concienciación e información
 
-- **Rede de comunicación especial para avisos incidencias para personas con mobilidade reducida (como avisos radares da DGT)**
-- **Promover asociacións para que revindiquen os espazos para camiñar. Promoción das *andarinas por prescrición médica***
+- **Rede de comunicación especial para avisos de incidencias para persoas con mobilidade reducida (como aviso dos radares da *DGT*)**
+- **Promover asociacións para que revindiquen os espazos para camiñar. Promoción das *andarinas por prescrición médica* **
 - **Pegatinas recriminadoras por malas conductas**
 - **Bombas de flores (lanzamento de sementes en espazos verdes para facer máis agradables os traxectos a pé)**
-- **Cartel berro bicicleta. Paneles xigantes para poñer os usuarios de bicicleta mensaxes aos conductores**
-- **Regalar a ciclistas barras-marco separadoras para que os coches respeten as distancias**
-- Mellorar a comunicación de información dos paneles do bus.
+- **Cartel berro bicicleta. Paneis xigantes para que as usuarias de bicicleta poñan mensaxes aos condutores**
+- **Regalar a ciclistas barras-marco separadoras para que os coches respecten as distancias**
+- Mellorar a comunicación de información dos paneis do bus.
 
 ### Servizo público de mobilidade
 
@@ -63,21 +63,21 @@ Debido a o filtrado e ao verse reducido o tempo do exercicio de xeración de ide
 ## Propostas-Suxerencias ao Concello
 
 - Semáforos con botón para coches (invertindo o rol cos peóns que son os que teñen que pedir o paso habitualmente).
-- Subida do imposto vehículos a gasolina, baixada do imposto eléctricos.
-- Subida do prezo dos parkímetros.
+- Subida do imposto a vehículos a gasolina, baixada do imposto a eléctricos.
+- Subida do prezo dos parquímetros.
 - Favorecer o deseño de espazos nos que se misturen os usos (sen delimitación ríxida de plataformas para un uso concreto, calzada-carril bici-acera...)
 - Establecer zonas de exclusividade progresiva de medios de tranporte: peón-bici-bus-coche
-- Carril bici para toda a cidade
-- Carné por puntos en función dos kilómetros percorridos (subvencións, descontos impostos...)
-- Máis sendas no deseño urbano
+- Carril bici para/por toda a cidade
+- Carné por puntos en función dos kilómetros percorridos (subvencións, descontos no imposto...)
+- Máis sendas no deseño urbán
 - Servizo de alquiler de barcas (como o de bicis)
 - Máis aparcamentos públicos para bicis de uso privado (pechados: contenedores, aparcamentos de bici)
-- Espazos de parada preferente e exclusivo para bicicletas nos semáforos.
-- Mellorar a comunicación de información dos paneles do bus.
-- Mellorar deseño de liñas e frecuencias do servizo de buses.
+- Espazos de parada exclusivos e de preferencia para bicicletas nos semáforos.
+- Mellorar a comunicación de información dos paneis do bus.
+- Mellorar o deseño de liñas e frecuencias do servizo de buses.
 - Mellora da *app* de bus.
 - Porta bicis (exterior) para os buses.
-- Bicis con asento-cesto para nenos
+- Bicis con asento-cesto para nenos.
 
 
 ![F2-accions_propostas_concello_1](imaxes/accions-propostas-concello_1.jpg)
