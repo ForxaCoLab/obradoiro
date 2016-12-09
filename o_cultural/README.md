@@ -1,6 +1,6 @@
 # Presentación do equipo
 
-![O grupo]()
+![O grupo](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_cultural/imaxes/grupo.jpg)
 
 		
 
