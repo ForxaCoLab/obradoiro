@@ -9,8 +9,8 @@ Fase 2_Conceptualización
 Fase 3_Prototipado
 
 
-![](http://forxa.colab.coruna.gal/Vicente%20Conde/obradoiro/raw/master/o_habitar/imaxes/presentacion.jpg/)
-![](http://forxa.colab.coruna.gal/Vicente%20Conde/obradoiro/raw/master/o_habitar/imaxes/presentacion2.jpg/)
+![](http://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/presentacion.jpg/)
+![](http://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/presentacion2.jpg/)
 
 A continuación detallamos os nomes das persoas participantes no Grupo do Habitar:
 
