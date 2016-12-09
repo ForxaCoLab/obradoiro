@@ -2,46 +2,102 @@
 
 **Resumen general de contenidos:** 
 
-## Problemas:
+**GRUPO: LO CULTURAL**
 
-Inminente decisión Teatro Colón (oportunidad que se abre), 
+RESPONSABLES: Héctor Pose y Arantxa Serantes
 
-falta de hibridación en propuestas culturales municipales, 
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_cultural/imaxes/contextualizar1.jpeg/)
+*En esta imagen se muestra una de las dinámicas del grupo en la que los agentes sociales se presentan y hacen saber al grupo sus intereses y el motivo por el que desean participar*.
 
-diversidad de las programaciones, 
+El proceso se ha estructurado en tres fases (contextualización,
+conceptualización y prototipado) que tenían como objetivo alcanzar una
+serie de acuerdos según la temática seleccionada. En este caso, el
+epígrafe adscribía todo aquello que conocemos como: LO CULTURAL.
 
-inexistente política de residencias, 
+En la **FASE DE CONTEXTUALIZACIÓN** se ponían de relieve una serie de
+factores (problemas, proyectos y agentes) distribuidos en columnas,
+dando como resultado una puesta en común y un debate muy rico como fruto
+de las experiencias personales de cada agente social. En este grupo se
+contó con la experiencia de dos expertos: Antonio Lafuente y Pedro
+Jiménez.
 
-Ayuntamiento excesivamente programador y poco facilitador, 
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_cultural/imaxes/propuestas.jpg/)
+*Se pueden apreciar las propuestas y contribuciones por parte de los asistentes oportunamente clasificadas*
 
-nulo apoyo a creadores en aspectos fundamentales Ej: gestión fiscal, asesoramiento, etc, escasa inovación y falta de riesgo en programación, 
+PROBLEMAS:
 
-no olvidar proyectos de calado en la ciudad por la labor propositiva que contiene (proxecto cárcere), 
+-Cambio a corto plazo de titularidad del Teatro Colón / Palacio de la
+Ópera
 
-falta de políticas activas de apoyo y visibilidad social de los especios para la creatividad (escuelas, teatro, librerías), 
+-Falta de continuidad en las iniciativas: necesidad de “apostar por
+algo”
 
-déficit en metodologías en el diseño y evaluación de políticas de cultura. 
+-Falta de asesoramiento y desprofesionalización de la cultura
 
-## Proyectos: 
+-Necesidad de reconocimiento de “lo femenino” y reconocimiento de la
+diversidad de género
 
-Múltiples ideas que podrían solucionar estos problemas. Casos prácticos: 
+-Hibridación y falta de dotación material para diversificar y crear
 
-Disonancias, 
+-Acompañar y dar acogida a lo nuevo, a lo desconocido (más innovación)
 
-Brunne Passage,
+-Mayor libertad para presentar propuestas (interseccionalidad de
+convocatorias)
 
-apoyo a las librerías en Lille o Barcelona, 
+-Convocatoria y estrategia de residencias
 
-Alg-a en Valladares... 
+-Traspasar tendencias políticas y que el ayuntamiento sea facilitador,
+no artífice de los programas
 
-## Agentes: 
+-Necesidad de reeducar y revalorizar lo cultural
 
-De base, 
+-Implicación de la iniciativa privada y cesión de espacios
 
-Ayuntamiento, Universidad, 
+-Buscar mecanismos que compensen el IVA cultural
 
-Colectivos de creadores, 
+PROYECTOS:
 
-Empresas privadas 
+-Co-lab como observatorio / formador
 
-(y por supuesto Simplicius)
+-Vado y terraza cultural para dar importancia a la creatividad en la
+ciudad (señalética y mapeo cultural)
+
+-Cultivo y cuidado de los espacios culturales
+
+-Protección de la lectura, llegando a acuerdos con librerías
+independientes
+
+-Abrir el espacio cultural en la calle, lo público
+
+-Creación de una universidad popular en la red
+
+-Conocimiento de instrumentos de cultura libre
+
+-Lab de innovación jurídica para creadore/as
+
+-Llevar el Co-lab a consulta como entidad (sociedad de gestión)
+
+-Noches en los museos o actividades similares
+
+AGENTES:
+
+-El acompañamiento del Ayuntamiento
+
+-Entidades privadas (creando nuevas fórmulas legales o sistemas de
+colaboración)
+
+-Colectivos de creadores/as
+
+-Universidad
+
+En lo que respecta a proyectos, se barajaban distintos ejemplos
+prácticos existentes en la actualidad: no olvidar proyectos de calado en
+la ciudad por la labor propositiva que contiene (proxecto Cárcere),
+Disonancias, Brunne Passage en Viena, apoyo a las librerías en Lille o
+Barcelona, Alga en Valladares...
+
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_cultural/imaxes/contextualizar2.jpg/)
+
+*En plena lluvia de ideas y debate moderados por Héctor Pose*
+
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_cultural/imaxes/contextualizar3.jpg/)
