@@ -9,7 +9,7 @@ Despois de abordar tres das catro "regras do xogo" durante toda a mañá do prim
 ![](http://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar.%20tecer_rede.jpg/)
 
 
-16:30h - Pasamos á **identificación** individual de problemas, proxectos e axentes. Mediante *post its* ou cartulinas de cores. Cada persoa iría enunciando en voz alta os problemas, seguido da proxectos existentes e finalmente os axentes relacionados.
+16:30h - Pasamos á **identificación** individual de problemas, proxectos e axentes utilizando a técnica do *benchmarking*. Mediante *post its* ou cartulinas de cores. Cada persoa iría enunciando en voz alta os problemas, seguido da proxectos existentes e finalmente os axentes relacionados.
 
 ![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar%20problemas.jpg)
 
