@@ -1,7 +1,7 @@
 # Contextualizar
-Fase metodolóxica referente á identificación de **problemas**, **proxectos** e **axentes** a ter en conta dentro das cuestións do **Habitar**. 
+Fase metodolóxica referente á identificación de **problemas**, **proxectos** e **axentes** a ter en conta dentro das cuestións do **Habitar**, 'e dicir, os temoas relacionados co espazo público urbano, as cuestións ambientais e a conexión cidade-rural que configura o territorio. 
 
-Despois de abordar tres das catro regras do xogo, durante toda a mañá do primerio día do obradoiro, coas interesantes ponencias de Antonio Lafuente sobre In-displinariedade, de Pedro Jiménez sobre Coñecemento Aberto e Enrique Saavedra sobre Produción, e tras formar a configuración das equipas durante o café de mediamañá e o xantar colectivo, xa estariamos preparadxs para abordar a primeira fase de traballo do Co-Lab.
+Despois de abordar tres das catro "regras do xogo" durante toda a mañá do primerio día do obradoiro, coas interesantes ponencias de Antonio Lafuente sobre In-displinariedade, de Pedro Jiménez sobre Coñecemento Aberto e Enrique Saavedra sobre Produción, e tras formar a configuración das equipas durante o café de mediamañá e o xantar colectivo, xa estariamos preparadxs para adentrarnos na primeira fase de traballo do Co-Lab.
 
 
 16:15 h - Comezamos a **presentación** de cada un dxs integrantes da equipa mediante a dinámica de Tecer Redes, unha maneira divertida de coñecerse e crear un entorno de traballo en confianza.
@@ -9,15 +9,15 @@ Despois de abordar tres das catro regras do xogo, durante toda a mañá do prime
 ![](http://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar.%20tecer_rede.jpg/)
 
 
-16:30h - Pasamos á identificación individual de problemas, proxectos e axentes. Mediante *post its* ou cartulinas de cores, cada persoa iría enunciando en voz alta os problemas, seguido da proxectos existentes e finalmente os axentes relacionados.
+16:30h - Pasamos á **identificación** individual de problemas, proxectos e axentes. Mediante *post its* ou cartulinas de cores. Cada persoa iría enunciando en voz alta os problemas, seguido da proxectos existentes e finalmente os axentes relacionados.
 
 ![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar%20problemas.jpg)
 
 ![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar%20proxectos.JPG)
 
-18:00h - Despois da identificación e posta en común dos tres puntos desta fase, pasamos á clusterización e panelado para a súa presentación ao resto dos grupos no plenario.
+18:00h - Despois da identificación e posta en común dos tres puntos desta fase, pasamos á **clusterización e panelado** para unha presentación máis sinxela, esquemática e dinámica ao resto dos grupos no plenario.
 
-A continuación detallamos cada un dos puntos que foron saíndo:
+A continuación recollemos e enumeramos cada un dos puntos que foron saíndo:
 
 ###### **PROBLEMAS**: da choiva de ideas, despois de clasificadas segundo unha orde coherente, obtivemos CATRO grandes bloques de problemas, os cales enumeramos a continuación:
 
@@ -55,7 +55,7 @@ A continuación detallamos cada un dos puntos que foron saíndo:
 - **PEDAGÓXICOS**: Feminismos e Ruralidades (Montenoso), Crianza Libre, Podcast Habitando, Mar de Mares, Proxecto Terra Ludantia, Proxecto Estudos Decoloniais (UDC), CUAC FM, Escola Waldorf e Andaina.   
     
 
-###### **AXENTES**: xa con pouco tempo antes da posta en común no plenario, abordamos a parte dos axentes a ter en conta no Hábitat da cidade:
+###### **AXENTES**: xa con pouco tempo antes da posta en común no plenario, abordamos a clasificación dos axentes a ter en conta no Hábitat da cidade:
 
 - **PATRIMONIO E MEDIO AMBIENTE**: Rede Galega de Sementes, ADEGA, ESPIGA, Demarcación de Costas.
 
@@ -72,6 +72,10 @@ A continuación detallamos cada un dos puntos que foron saíndo:
 
 - **PEDAGÓXÍA-COMUNICACION**: Grupos de Estudos Independentes (ERGOSFERA, MONTENOSO), COAG, Universidade, Colexios Profesionais.
 
-Resultado do panel con problemas, proxectos e axentes, despois da súa clasificación para a presentación no plenario:
+Resultado final do panel con problemas, proxectos e axentes, despois da súa clasificación para a presentación no plenario:
 
 ![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar.panel_final.jpg)
+
+19:00h - Xa no plenario, contamos cunha **exposición/interpretación** colectiva por parte de Pablo e Ramón na exposición dos Problemas e con Silvia e Marta na parte de Proxectos e Axentes:
+
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/IMG_2998.jpg)
