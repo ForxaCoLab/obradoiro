@@ -6,7 +6,7 @@ Despois de abordar tres das catro regras do xogo, durante toda a mañá do prime
 
 16:15 h - Comezamos a **presentación** de cada un dxs integrantes da equipa mediante a dinámica de Tecer Redes, unha maneira divertida de coñecerse e crear un entorno de traballo en confianza.
 
-![](http://forxa.colab.coruna.gal/Vicente%20Conde/obradoiro/raw/master/o_habitar/imaxes/contextualizar.%20tecer_rede.jpg/)
+![](http://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar.%20tecer_rede.jpg/)
 
 
 16:30h - Pasamos á identificación individual de problemas, proxectos e axentes. Mediante *post its* Cada persoa iría enunciando en voz alta continuación detallamos cada un dos puntos que foron saíndo:
