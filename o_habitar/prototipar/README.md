@@ -1,14 +1,14 @@
 # Prototipado
 Despois de finalizar a mañá coa práctica e dinámica ponencia de Nagore de los Ríos sobre Gobernanza e Participación e do xantar colectivo, pasariamos á última parte do obradoiro, xa na sesión de tarde, onde Juan Freire nos falaría de Comunidades de aprendizaxe.
 
-![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/canvas.jpg)
-
 
 17:00h - Comezaba cunha hora de retraso a Fase 3 e última do obradoiro debido ao debate cidadán xurdido durante a última ponencia.
 
 O momento de escoller cal dos tres proxectos se quería prototipar non foi doado dentro do grupo do Habitar. Algúns/has dxs integrantes houbesen preferido optar por cuestións máis relacionadas cos usos comunitarios da vivenda ou de desmercantilización da mesma. Sen embargo, finalmente houbo consenso colectivo por definir as accións precisas para o potencial proxecto de ¨Aldeanizar a Cidade¨. 
 
 Os puntos que tivemos que definir dentro do prototipado do programa de accións a desenvolver foron os seguintes:
+
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/canvas.jpg)
 
 **DEFINICIÓN**: ¨Aldeanizar a Cidade¨ dentro do marco da Agra do Orzán
 
