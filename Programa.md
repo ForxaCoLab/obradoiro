@@ -53,9 +53,9 @@ Xoves, 24 e Venres, 25 de Novembro
 
 :clock11: 11.00-12.00. **In-disciplinaridade** (amateur/profesional, diferencia, hospitalidade)  Antonio Lafuente (CSIC)
 
-:clock0: 12.00-12.30. Descanso
+:clock12: 12.00-12.30. Descanso
 
-:clock030: 12.30-13.30. **Coñecemento aberto** Pedro Jimenez (Zemos98)
+:clock1230: 12.30-13.30. **Coñecemento aberto** Pedro Jimenez (Zemos98)
 
 :clock130: 13.30-14.30. **Produción** Enrique Saavedra (Galicia Maker Fair)
 
