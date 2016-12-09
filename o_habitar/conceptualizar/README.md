@@ -13,7 +13,7 @@ Probablemente a fase máis complexa do obradoiro, xa que se trataba de atopar os
 
 Filtrado de ideas en base á súa coherencia coas normas de apertura (In-disciplinariedade, Coñecemento aberto, Produción e Comunidades de aprendizaxe) e ao seu impacto potencial e, finalmente unha clusterización de accións e retos.
 
-O resultado deste proceso resultaría na posibilidade de prototipar un dos tres grandes programas de acción concretos que saíron desta fase:
+O resultado deste proceso resultaría na posibilidade de prototipar un ou máis dos tres grandes programas de acción concretos que saíron desta fase:
 
 1. Colectivizar/Democratizar bens (vivenda, prazas, etc) que fagan sostibles as vidas privadas.
 2. "Aldeanizar a cidade" (consumo de proximidade)
