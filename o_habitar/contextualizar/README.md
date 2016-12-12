@@ -1,5 +1,5 @@
 # Contextualizar
-Fase metodolóxica referente á identificación de **problemas**, **proxectos** e **axentes** a ter en conta dentro das cuestións do **Habitar**, 'e dicir, os temoas relacionados co espazo público urbano, as cuestións ambientais e a conexión cidade-rural que configura o territorio. 
+Fase metodolóxica referente á identificación de **problemas**, **proxectos** e **axentes** a ter en conta dentro das cuestións do **Habitar**, é dicir, os temas relacionados co espazo público urbano, as cuestións ambientais e a conexión cidade-rural que configura o territorio. 
 
 Despois de abordar tres das catro "regras do xogo" durante toda a mañá do primerio día do obradoiro, coas interesantes ponencias de Antonio Lafuente sobre In-displinariedade, de Pedro Jiménez sobre Coñecemento Aberto e Enrique Saavedra sobre Produción, e tras formar a configuración das equipas durante o café de mediamañá e o xantar colectivo, xa estariamos preparadxs para adentrarnos na primeira fase de traballo do Co-Lab.
 
