@@ -13,9 +13,9 @@ Despois de abordar tres das catro "regras do xogo" durante toda a mañá do prim
 
 ![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar%20problemas.jpg)
 
-![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar%20proxectos.JPG)
-
 18:00h - Despois da identificación e posta en común dos tres puntos desta fase, pasamos á **clusterización e panelado** para unha presentación máis sinxela, esquemática e dinámica ao resto dos grupos no plenario.
+
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_habitar/imaxes/contextualizar%20proxectos.JPG)
 
 A continuación recollemos e enumeramos cada un dos puntos que foron saíndo:
 
