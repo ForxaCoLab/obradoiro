@@ -15,9 +15,9 @@ Filtrado de ideas en base á súa coherencia coas normas de apertura (In-discipl
 
 O resultado deste proceso resultaría na posibilidade de prototipar un ou máis dos tres grandes programas de acción concretos que saíron desta fase:
 
-1. Colectivizar/Democratizar bens (vivenda, prazas, etc) que fagan sostibles as vidas privadas.
+**1. Colectivizar/Democratizar bens (vivenda, prazas, etc) que fagan sostibles as vidas privadas.
 2. "Aldeanizar a cidade" (consumo de proximidade)
-3. Acceder a outros xeitos de habitar en común baseados no uso vs. propiedade.
+3. Acceder a outros xeitos de habitar en común baseados no uso vs. propiedade.**
 
 
 O resultado do panelado da Fase de Conceptualización quedaría do seguinte xeito:
