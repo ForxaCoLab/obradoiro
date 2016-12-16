@@ -35,15 +35,15 @@ Primeiro identificanse problemáticas, ainda que inicialmente se suxería unha p
   Persoas con mobilidade reducida entre a cidade e a súa contorna.
 
 - **Bici en entornos difíciles. Non se pode chegar en bici a tódolos lados (rapaces). Trasporte en bicicleta dos adolescentes por toda a cidade.** 
-- **Separación das funcións no territorio. Crean a necesidade de desplazarse longas distancias.**
+- **Separación das funcións no territorio. Crean a necesidade de desprazarse longas distancias.**
 - **Reparto do espazo público. Ter espazos para cada tipo de mobilidade ao final non deixa contento a ninguén.**
   - O territorio ten usos diferentes e polo tanto as necesidades de mobilidade son moitas, habería que buscar medidas que non sexan estándar. 
   
 - **Acceso universal dende todos os puntos da cidade aos espazos de lecer. Necesidade de espazo común para todas (sen barreiras).**
 - **Descoñecemento *cultural* da cidade. Falta de coñecemento das posibilidades da cidade: como moverse pola cidade, falta divulgación (non hai > non podemos). Dificultade para desprazarse entre lugares cercanos simplemente por descoñecemento das redes e posibilidades que ten a cidade. Falta de información sinxela sobre a cidade.**
 
-- **Problema de desplazamento para carriños bebés e persoas con discapacidade funcional con mobilidade reducida (a veces o que fai falla é información). Tampouco o sabemos facer.**
-- **Uso preferente do coche particular e de forma individual para desplazamento ao traballo.**
+- **Problema de desprazamento para carriños bebés e persoas con discapacidade funcional con mobilidade reducida (a veces o que fai falla é información). Tampouco o sabemos facer.**
+- **Uso preferente do coche particular e de forma individual para desprazamento ao traballo.**
 - **Concienciación de educación vial tanto conductores como peóns.**
 - **Pouca pedagoxía da da saúde de da mobilidade sostible.**
 - **Concentración en sitios e horas puntuais.**
@@ -60,7 +60,7 @@ Primeiro identificanse problemáticas, ainda que inicialmente se suxería unha p
   
 - **Velocidade dos coches.**
 - **Seguridade das persoas.**
-- **Sinalética.**
+- **Sinalización.**
 - **Choiva. Promove o uso do coche e dificulta a adopción doutros medios (bici, a pé).**
 - **Mobilidade dos animais salvaxes. Corredores ecolóxicos.**
 - **Contaminación (polución, ruido...)**
@@ -77,7 +77,7 @@ Primeiro identificanse problemáticas, ainda que inicialmente se suxería unha p
 
 - **Alteración e desaparición de camiños tradicionais para construir cousas novas. Necesidade de recuperación e respecto dos camiños de sempre.**
 
-- **Falta de espazo para aparcar nos aparcamentos para persoas con discapacidade.**
+- **Falta de espazo para aparcar (e subir e baixar) nos aparcamentos para persoas con discapacidade.**
 
 - **Beirarrúas estreitas.**
 
@@ -85,14 +85,14 @@ Primeiro identificanse problemáticas, ainda que inicialmente se suxería unha p
 
 - **Paseo marítimo (aspectos de deseño, distribución dos espazos).**
 
-- **Horario BiciCoruña. Que as bicicletas de alquiler poidan ser por un tempo longo e que as usuarias se fagan responsable delas.**
+- **Horario BiciCoruña. Que as bicicletas de alquiler poidan ser por un tempo longo no que as usuarias se poidan facer responsables delas.**
 
 
 ### Axentes identificados:
 
 ![F1-axentes](imaxes/benchmarking_detalle_axentes.jpg)
 
-Nesta parte identificaronse dous tipos de axentes, uns serían axentes que realizan proxectos interesantes e na liña de mobilidade sustentable, e outros, que simplemente son axentes importantes que prestan un servizo na cidade e é preciso ter en conta.
+Nesta parte identificáronse dous tipos de axentes, uns serían axentes que realizan proxectos interesantes e na liña de mobilidade sustentable, e outros, que simplemente son axentes importantes que prestan un servizo na cidade e é preciso ter en conta.
 
 #### Axentes ou actores importantes a ter en conta:
 
@@ -105,7 +105,9 @@ Nesta parte identificaronse dous tipos de axentes, uns serían axentes que reali
 - **Grandes centros traballo (Inditex, A Grela...)**
 - **Renfe**
 - **Clubes deportivos (*running*, bicicleta, triatlón)**
-- ***Fixie Coruña Club* ¿?**
+
+	- *Fixie Coruña Club* ¿?
+
 
 #### Axentes que fan proxectos ou iniciativas interesantes ou minorías que se creiu que deben ter voz e participar:
 
@@ -130,35 +132,35 @@ Nesta parte identificaronse dous tipos de axentes, uns serían axentes que reali
 
 ![F1-proxectos](imaxes/benchmarking_detalle_proxectos.jpg)
 
-##### *(Os proxectos surxidos teñen base en proxectos existentes ainda que non se faga referencia explicita a eles, de moitos non se puido referenciar o nome ou proxecto real).*
+##### *(Os proxectos surxidos teñen base en proxectos existentes ainda que non se faga referencia explícita a eles, de moitos non se puido referenciar o nome ou proxecto real).*
 
-- **Proxecto de peonalización Times Square, Nova Iorke (pintando liñas e con conos na rúa. Prototipar as rúas peonís a través de pintado do espazo.**
-- **Jane Jacobs. A solución a todo non é a peonalización nin os carriles bicis, senón que tamén pasa pola redistribución e uso compartido do espazo público).**
-- **Servizo que suxire rutas en bici alternativas. Non ruta rápida se non agradable, cómoda, con árbores... (Nova Iorke?)**
+- **Proxecto de peonalización Times Square, Nova Iorque (pintando liñas e con conos na rúa. Prototipar as rúas peonís a través de pintado do espazo.**
+- **Jane Jacobs. A solución a todo non é a peonalización nin os carriles bici, senón que tamén pasa pola redistribución e uso compartido do espazo público).**
+- **Servizo que suxire rutas en bici alternativas. Non só ruta rápida senón agradable, cómoda, con árbores... (Nova Iorque?)**
 - **Transporte baixo demanda (non se poden poñer liñas contínuas), sobre todo en zonas rurais.**
-- **Estudos de accesibilidade peonil (Instituto Tecnolóxico de Deusto) para planificacion de equipamentos accesibles.**
+- **Estudos de accesibilidade peonil (Instituto Tecnolóxico de Deusto) para planificación de equipamentos accesibles.**
 - **Condución autonoma (Google)**
 - **Cooperativas de usuarias de coche compartido, ou alternativas con grupos máis pechados/familiares.**
 - **Servizos de compartir / alquiler coches como as bicis (*Uber*, *Bla bla car*)**
-- **Proxecto que estudou a dispersión para reducir a necesidade de mobilidade (plurirreparto e pluriservizo, Finlandia).**
-- **Soportais de Santiago (non é un proxecto pero idea de deseñar a cidade dun xeito máis vivible).**
+- **Proxecto que estudou a dispersión para reducir a necesidade de mobilidade (plurirreparto e pluriservizo, en Finlandia).**
+- **Soportais de Santiago (non é un proxecto pero a idea de deseñar a cidade dun xeito máis vivible).**
 - **Zonas 30**
 - **Camiños escolares (rás pintadas no chan).**
-- **Buses especializados para eventos/festas en Galicia (en veráns en Ourense).**
+- **Buses especializados para eventos/festas en Galicia (por exemplo, en veráns en Ourense).**
 - **Autobuses nocturnos, BUHO. Incentivar para eventos susceptibles de interese para a mocidade.**
-- **Proxectos de accesibilidade e deseño para todos premiados (Vancouver, Xapón) que fan fincapé no mapeo e a sua divulgación de forma escrita. Indican se hai barreiras, relieve, etc. de traxectos a lugares habituais en diferentes medios de transporte, por exemplo, como ir a CHUAC, Ikea...**
-- **Amplitude do tamaño das sinais de autobuses (para facilitala lectura por parte persoas de visibilidade reducida, nenos, maiores...), Madrid.**
+- **Proxectos premiados de accesibilidade e deseño para todos (Vancouver, Xapón) que fan fincapé no mapeo e a sua divulgación de forma escrita. Indican se hai barreiras, relieve, etc. de traxectos a lugares habituais en diferentes medios de transporte, por exemplo, cómo ir ó CHUAC, á praza X, á escola Z...**
+- **Amplitude do tamaño dos sinais de autobuses (para facilitar a lectura por parte persoas con visibilidade reducida; nenos, maiores...), Madrid.**
 - **Semáforo adaptado para diferentes alturas (Colombia).**
 - ***Conozcamos la ciudad* (mapeo en Zaragoza)**
-- **Quedadas para andar de tipo cidadan tipo Masa crítica, Mobiliza, Plataforma mobilidade...**
+- **Quedadas para andar en grupo como as feitas por Masa crítica, Mobiliza, Plataforma mobilidade...**
 - **Carril bus**
 - **Peatonalización do centro**
 - Corredor verde do oleoducto. 
 - Proxecto *Tomar medidas* (na Normal?)
-- Proxectos de Bici-Ciudad, bicis compartidas
+- Proxectos de *Bici-Ciudad*, bicis compartidas
 - Proxectos de compartir garaxe (Coruña ten?)
 - Transporte incentivado por parte das empresas.
-- Colocar bicis nos hospitales da cidade.
+- Colocar bicis nos hospitais da cidade.
 - Amberes ¿?
 
 
@@ -180,7 +182,7 @@ No proceso de clusterización agrupáronse as distintas problemáticas, axentes 
 ### Problemática:
 
 - **Uso do coche e problemática do tráfico**
-  - Exceso de tráfico, de velocidade dos coches. Contaminación. Coche=Prestixio.
+  - Exceso de tráfico, de velocidade dos coches. Contaminación. Coche=Prestixio social.
   
 - **Criterios xerais para o deseño universal do espazo público e a accesibilidade**
   - Seguridade. Camiños tradicionais. Corredores ecolóxicos. Modelo disperso. Paseo marítimo...
@@ -189,7 +191,7 @@ No proceso de clusterización agrupáronse as distintas problemáticas, axentes 
   - Mobilidade peoníl difícil e perigosa. Beirarrúas estreitas. Dureza do espazo, non agradable para ir a pé. Percorridos a pé complexos...
 
 - **Pedagoxía, conciencia, comunicación e información para a cidadanía**
-  - Concienciación. Descoñecemento da cidade e necesidade de información. Información de liñas e percorridos e comportamento dos condutores do transporte público. Sinaléctica. Visibilidade dos pasos de peóns. Pedagoxía da saúde e da mobilidade sostible.
+  - Concienciación. Descoñecemento da cidade e necesidade de información. Información de liñas e percorridos e comportamento dos condutores do transporte público. Sinalización. Visibilidade dos pasos de peóns. Pedagoxía da saúde e da mobilidade sostible.
 
 - **Servizo público de mobilidade**
   - Prezo do transporte. Liñas de bus. Autobuses adaptados. Horario BiciCoruña.
@@ -200,7 +202,7 @@ No proceso de clusterización agrupáronse as distintas problemáticas, axentes 
 ### Proxectos:
 
 - **Amortiguar o uso do coche**
-  - Servizos para compartir desplazamentos e aparcamento
+  - Servizos para compartir desprazamentos e aparcamento
 
 - **Deseño universal do espazo público e accesibilidade**
   - Peonalización do centro, deseño accesible, camiños escolares, soportais, zonas 30
@@ -209,7 +211,7 @@ No proceso de clusterización agrupáronse as distintas problemáticas, axentes 
   - Buses nocturnos e especializados para eventos/festas, semáforo adaptado a diferentes alturas, transporte baixo demanda
 
 - **Coñecemento compartido**
-  - Quedadas, servizos de suxerencia de rutas alternativas en bici, Times Square, Estudos de accesibilidade e deseño...
+  - Quedadas, servizos de suxerencia de rutas alternativas en bici, *Times Square*, Estudos de accesibilidade e deseño...
 
 
 ### Axentes:
@@ -218,10 +220,10 @@ No proceso de clusterización agrupáronse as distintas problemáticas, axentes 
   - Plataforma pola mobilidade, Stop accidentes, Reciclos-Mobiliza, grupos ecoloxistas (Adega...), grupos de traballo da UDC (Cartolab, Salud y Bienestar - UDC Saludable), Colectivo 1 a 1, Ergosfera...
   
 - Organizacións de persoas usuarias
-  - ONCE, AMPAS, Asociacións que traballan con persoas con discapacidade funcional, grandes centros de traballo (Porto, Polígonos Industriais...), persoas *andarinas por prescripción médica*...
+  - ONCE, AMPAS, asociacións que traballan con persoas con discapacidade funcional, grandes centros de traballo (Porto, Polígonos Industriais...), persoas *andarinas por prescripción médica*...
 
 - Outros actores a ter en conta
-  - Empresas autobuses (Compañía de tranvías, Autos Cal-Pita, Autocares Vázquez), Taxistas, Renfe, Industria automoción, Porto da Coruña, Clubes deportivos (*running*, bicicleta, triatlón)...
+  - Empresas autobuses (Compañía de tranvías, Autos Cal-Pita, Autocares Vázquez), taxistas, Renfe, Industria automoción, Porto da Coruña, Clubes deportivos (*running*, bicicleta, triatlón)...
   
 
 ![F1-clusterizacion-proxectos](imaxes/clustering_proxectos-axentes.jpg)

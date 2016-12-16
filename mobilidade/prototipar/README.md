@@ -10,13 +10,13 @@ O grupo cree necesario unha pequena conversa en referencia ao debate surxido no 
 
 ![F3-canvas](imaxes/canvas.jpg)
 
-Finalmente definense 3 grandes bloques de accións:
+Finalmente defínense 3 grandes bloques de accións:
 
 ## Guerrilla urbana
 
-(pequenas accións que mitiguen o mal deseño dos ambientes ao camiñar e fagan conciencia)
+(pequenas accións que mitiguen o mal deseño dos ambientes ao camiñar e creen conciencia)
 
-- Bombas de flores
+- Bombas de flores (lanzamento de sementes en espazos verdes para facer máis agradables os traxectos a pé)
 
 - Promover asociacións para que revindiquen os espazos para camiñar. Promoción das *andarinas por prescrición médica*
 
@@ -24,31 +24,31 @@ Finalmente definense 3 grandes bloques de accións:
 
 - Senda verde na vía do tren ao Burgo
 
-- Espazos de parada preferente e exclusivo para bicicletas nos semáforos.
+- Espazos de parada exclusivos e de preferencia para bicicletas nos semáforos.
 
 
 ## Chuvasqueiros
 
 (Mobilidade bici/peón)
 
-- Chuvasqueiros
+- Deseño de chuvasqueiro para ir en bici
 
 - Pasarela-desfile chuvasqueiros
 
-- Cartel berro bicicleta. Paneles xigantes para poñer os usuarios de bicicleta mensaxes aos conductores
+- Cartel berro bicicleta. Paneis xigantes para que as usuarias de bicicleta mensaxes poidan poñer mensaxes aos conductores (coméntase tamén a posibilidade de que os chuvasqueiros incorporasen leds para esta función). 
 
 
 ## Información e sensibilización
 
 (Pedagoxía, concienciación e información)
 
-- Concurso-ranking entre colexios de transporte sustentable para ir ao colexio.
+- Concurso-*ranking* entre colexios de transporte sustentable para ir ao colexio.
 
 - Pegatinas recriminadoras de malos comportamentos.
 
-- Rede de comunicación especial para avisos incidencias para personas con mobilidade reducida.
+- Rede de comunicación especial para aviso de incidencias para persoas con mobilidade reducida.
 
-- Ranking de amabilidade dos conductores de bus.
+- *Ranking* de amabilidade dos conductores de bus.
 
 - *App* para compartir coche a nivel local.
 
@@ -57,25 +57,25 @@ Finalmente definense 3 grandes bloques de accións:
 
 ## Canvas
 
-### DEFINICION
+### DEFINICIÓN
 
-**\#Removete**
+**\#Remóvete**
 
 Pensarte a ti mesma movéndote dunha forma diferente.
 
-Multiples pequenas accións concretas (de creación, de guerrilla) que axudan á pedagoxía e concienciación.
+Múltiples pequenas accións concretas (de creación, de guerrilla) que axudan á pedagoxía e á concienciación.
 
-### OBXETIVOS
+### OBXECTIVOS
 
-- Cambiar hábitos de mobilidade
+- Cambiar os hábitos de mobilidade
 - Cambiar a forma de pensar a mobilidade
 - Mellorar a habitabilidade dos percorridos
 - Promover unha comunidade (tipo *runners*: **"as removers"**)
-- Xerar orgullo *remover* e convertirse na envexa de toda A Coruña
+- Xerar orgullo ***remover*** e converterse na envexa de toda A Coruña
 
-### FERRAMENTAS METODOLOXICAS
+### FERRAMENTAS METODOLÓXICAS
 
-- Talleres de contrucción de utensilios para as *removers*
+- Obradoiros de contrución de ferramentas para as *removers*
 - Quedadas, ferramentas de xestión de grupos
 - Ferramentas de mapeado, aporte de datos e repositorio
 - Chamadas abertas, convocatorias
@@ -85,7 +85,7 @@ Multiples pequenas accións concretas (de creación, de guerrilla) que axudan á
 
 - Contactos persoais
 - Campañas
-- Postos de avituallamento
+- Postos de avituallamento para grupos de persoas que andan ou corren
 - Vídeos
 
 ### RECURSOS
@@ -100,7 +100,7 @@ Fíxose unha dinámica final para comentar as sensacións persoais do obradoiro.
 
 ---
 
-:clock730: **17:30**
+:clock730: **19:30**
 
 ## Posta en común plenaria
 

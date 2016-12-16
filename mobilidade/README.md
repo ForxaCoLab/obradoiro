@@ -6,8 +6,8 @@ Estas persoas foron:
 
 1. **Adriana Ávila** (Terapeuta ocupacional. Profesora da UDC) :one: :three:
 - Alberto Varela (Enxeñeiro Camiños, coordinador Cartolab e Emapic) :one:
-- **Ana Blanco** (FETSAC, asociación cultural que organiza un trabajo contrapuesto a la escuela de arquitectura de la ciudad) :one: :two: :three:
-- **Ana Lorenzo** (Cidadanía *"SCoopGal"*) :one: :two: :three:
+- **Ana Blanco** (FETSAC) :one: :two: :three:
+- **Ana Lorenzo** (Cidadanía S.Coop.Gal) :one: :two: :three:
 - Diego (Arquitecto Técnico) :one: :two:?
 - **Inés Cruz Varela** (4Espazos) :one: :two: :three:
 - Patricia Lesta (Concello) :three:
