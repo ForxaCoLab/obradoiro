@@ -6,7 +6,7 @@ Trala charla de Juan Freire  na que xurdiu un punto álxido foi necesario facer 
 DEFINICIÓN: BARRIOS EN MANSCOMUNS.
 
 OBXECTIVO: Vernos, atoparnos, (re)coñecernos, contruírnos.
-![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_social/imaxes/prototipo.jpg)
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_social/imaxes/IMG_20161125_203720.jpg)
 
 *Panel Prototipado: Proposta “Barrios en mans comúns”.*
 
@@ -34,4 +34,7 @@ Terá que cumprir:
 -	Inclusivos.
 -	Xénero.
 -	Interxeneracionalidade.
+
+![](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/o_social/imaxes/IMG_3095.JPG)
+*Posta en común no plenario*
 
