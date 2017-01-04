@@ -10,7 +10,6 @@ Axenda do Obradoiro (24 e 25 Novembro)
 
   - *(Traducir ao galego:)*
 
-~~  - *(Engadir as dúas imaxes finais)~~
 
 ---
 ## EL PROCESO DEL CO-LAB
