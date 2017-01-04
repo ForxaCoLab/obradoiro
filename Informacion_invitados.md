@@ -1,4 +1,4 @@
-# INFORMACIÓN PARA POÑENTES
+# INFORMACIÓN PARA INVITADAS
 ## Obradoiro Co-Lab, 24 e 25 Novembro 2016, A Coruña
 
 Web do Co-Lab: [http://colab.coruna.gal/](http://colab.coruna.gal/)
@@ -123,6 +123,10 @@ basada en experiencias concretas:
 
 
 ## LA DINÁMICA DE LOS GRUPOS DE TRABAJO
+
+![Proceso](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/proceso_1.png)
+
+![Proceso](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/proceso_2.png)
 
 La dinámica de los grupos de trabajo se estructura en 3 fases:
 
