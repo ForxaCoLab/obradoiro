@@ -173,3 +173,5 @@ participantes y comunidades
     	- Hoja de ruta (cronograma) para la puesta en marcha de acciones
 
     - Cada grupo en plenario abordará en una primera fase la generación de ideas y propuestas de los elementos básicos de cada elemento del prototipo y posteriormente se organizarán en equipos para su desarrollo y documentación
+
+![Proceso](https://forxa.colab.coruna.gal/Co-Lab/obradoiro/raw/master/prototipo.png)
